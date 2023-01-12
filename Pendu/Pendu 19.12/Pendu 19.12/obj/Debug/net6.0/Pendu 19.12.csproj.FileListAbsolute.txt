@@ -1,0 +1,15 @@
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\obj\Debug\net6.0\Pendu 19.12.csproj.AssemblyReference.cache
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\obj\Debug\net6.0\Pendu 19.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\obj\Debug\net6.0\Pendu 19.12.AssemblyInfoInputs.cache
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\obj\Debug\net6.0\Pendu 19.12.AssemblyInfo.cs
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\obj\Debug\net6.0\Pendu 19.12.csproj.CoreCompileInputs.cache
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\bin\Debug\net6.0\Pendu 19.12.exe
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\bin\Debug\net6.0\Pendu 19.12.deps.json
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\bin\Debug\net6.0\Pendu 19.12.runtimeconfig.json
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\bin\Debug\net6.0\Pendu 19.12.dll
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\bin\Debug\net6.0\Pendu 19.12.pdb
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\obj\Debug\net6.0\Pendu 19.12.dll
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\obj\Debug\net6.0\refint\Pendu 19.12.dll
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\obj\Debug\net6.0\Pendu 19.12.pdb
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\obj\Debug\net6.0\Pendu 19.12.genruntimeconfig.cache
+C:\Users\mxalt\Desktop\Formation\c + c-\Pendu 19.12\Pendu 19.12\obj\Debug\net6.0\ref\Pendu 19.12.dll
